@@ -1,1 +1,2 @@
-h1 hi
+## Deskripsi Singkat
+Program ini terinspirasi dari Aplikasi bawaan Handphone pada masa ini yaitu AppStore dan Playstore, Program ini memiliki sistem CRUD (Create, Read, Update, Delete), Program ini memungkinkan pengguna untuk menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi sesuai dengan kebutuhan, menghapus aplikasi dan keluar dari program, kode ini masih dalam tahap pengembangan untuk kedepannya kemungkinan akan ditambahkan fitur Admin dan Pengguna dan Error Handling
