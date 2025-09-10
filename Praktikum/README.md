@@ -1,4 +1,4 @@
-<img width="520" height="343" alt="image" src="https://github.com/user-attachments/assets/3b563746-fa71-4b0c-81b2-d0830c6906e4" /># Deskripsi Singkat
+# Deskripsi Singkat
 Program ini terinspirasi dari Aplikasi bawaan Handphone pada masa ini yaitu AppStore dan Playstore, Program ini memiliki sistem CRUD (Create, Read, Update, Delete), Program ini memungkinkan pengguna untuk menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi sesuai dengan kebutuhan, menghapus aplikasi dan keluar dari program, kode ini masih dalam tahap pengembangan untuk kedepannya kemungkinan akan ditambahkan fitur Admin dan Pengguna dan Error Handling
 # Alur Program 
 Untuk Alur Program program ini tidak terlalu kompleks yang pertama itu ada 
