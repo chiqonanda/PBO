@@ -1,6 +1,6 @@
-## Deskripsi Singkat
+# Deskripsi Singkat
 Program ini terinspirasi dari Aplikasi bawaan Handphone pada masa ini yaitu AppStore dan Playstore, Program ini memiliki sistem CRUD (Create, Read, Update, Delete), Program ini memungkinkan pengguna untuk menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi sesuai dengan kebutuhan, menghapus aplikasi dan keluar dari program, kode ini masih dalam tahap pengembangan untuk kedepannya kemungkinan akan ditambahkan fitur Admin dan Pengguna dan Error Handling
-## Alur Program 
+# Alur Program 
 Untuk Alur Program program ini tidak terlalu kompleks yang pertama itu ada 
 ### 1. Tampilan Menu Utama
 User diberikan 5 pilihan yaitu Menambahkan Aplikasi, Menampilkan Aplikasi, Mengupdate Aplikasi, Menghapus Aplikasi dan keluar dari program, untuk codenya sendiri menggunakan Switch Case 
