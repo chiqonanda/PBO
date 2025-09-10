@@ -14,3 +14,14 @@ Jika masuk ke 3 atau Menambah update pengguna diharusnya memasukan: Nama Aplikas
 Jika masuk ke 4 atau hapus maka user nanti bisa memilih mana aplikasi yang ingin dihapus, jika valid maka aplikasi akan terhapus dari ArrayList
 ### 6. Keluar Program
 Program akan terhenti jika user memilih nomor 5
+# Penjelasan Kode
+### Library
+<img width="335" height="63" alt="image" src="https://github.com/user-attachments/assets/49af5570-5198-496b-8542-35974ecbff6e" />
+java.util.ArrayList:
+
+ArrayList adalah bagian dari Java Collections Framework dan berada dalam paket (package) java.util.
+
+ArrayList merupakan implementasi dari antarmuka List yang menggunakan array dinamis untuk menyimpan elemen.
+java.util.Scanner:
+
+Scanner adalah kelas dalam paket java.util yang digunakan untuk memindai (scan) dan mengurai (parse) tipe data primitif dan string menggunakan ekspresi reguler.
