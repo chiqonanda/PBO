@@ -10,7 +10,8 @@ public class main {
 
         int pilihan;
         do {
-            System.out.println("\n=== APP STORE MANAGEMENT ===");
+            System.out.println("\n===  MANAJEMEN TOOLS/APLIKASI  ===");
+            System.out.println("Selamat Datang Pencarian Aplikasi ");
             System.out.println("1. Tambah Aplikasi");
             System.out.println("2. Tampilkan Aplikasi");
             System.out.println("3. Update Aplikasi");
@@ -38,4 +39,5 @@ public class main {
         } while (pilihan != 6);
     }
 }
+
 
