@@ -5,15 +5,21 @@
 ## Deskripsi Singkat Program
 Program ini merupakan sistem manajemen aplikasi sederhana (mirip App Store) dengan operasi CRUD (Create, Read, Update, Delete) serta fitur pencarian. Pengguna dapat menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi, menghapus aplikasi, dan mencari aplikasi berdasarkan nama. Program dibuat dengan konsep Pemrograman Berorientasi Objek (OOP), menerapkan MVC (Model-View-Controller), serta dilengkapi validasi input.
 
-## Source Code
-### 1. Struktur Project (MVC)
+
+## Struktur Project (MVC)
 <img width="388" height="224" alt="image" src="https://github.com/user-attachments/assets/82d00d5f-22f5-4aa0-ae6c-ad810e10f7ec" />
 
+Terdapat 3 Package dipemrograman ini dimana setiap packagenya mempunyai fungsi masing masing, yaitu:
 - Package Main berisi Main.java sebagai entry point program dan menu interaksi user.
 
 - Package Model berisi class Aplikasi yang menyimpan struktur data, atribut, constructor, getter & setter.
 
 - Package Service berisi class AplikasiService yang mengatur logika CRUD dan validasi input.
+
+## Source Code 
+### 1. 
+
+
 
 ## Alur Program 
 ### 1. Menu Utama
