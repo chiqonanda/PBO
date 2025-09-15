@@ -1,7 +1,7 @@
 package model;
 
 public class Aplikasi {
-    // Properties (private = encapsulation)
+    // Properties 
     private String nama;
     private String developer;
     private String versi;
@@ -49,7 +49,6 @@ public class Aplikasi {
     public double getUkuranFile() { return ukuranFile; }
     public void setUkuranFile(double ukuranFile) { this.ukuranFile = ukuranFile; }
 
-    @Override
     public String toString() {
         return "Nama: " + nama +
                 "\nDeveloper: " + developer +
@@ -61,3 +60,4 @@ public class Aplikasi {
                 "\nUkuran File: " + ukuranFile + " MB\n";
     }
 }
+
