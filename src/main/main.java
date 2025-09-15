@@ -18,8 +18,8 @@ public class main {
             System.out.println("5. Cari Aplikasi");
             System.out.println("6. Keluar");
             System.out.print("Pilih menu: ");
-            while (!input.hasNextInt()) { // validasi menu
-                System.out.println("❌ Harus angka!");
+            while (!input.hasNextInt()) { 
+                System.out.println("Harus angka yaa!");
                 input.next();
                 System.out.print("Pilih menu: ");
             }
@@ -33,8 +33,9 @@ public class main {
                 case 4 -> service.hapusAplikasi();
                 case 5 -> service.cariAplikasi();
                 case 6 -> System.out.println("Terima kasih! Program selesai.");
-                default -> System.out.println("❌ Pilihan tidak tersedia.");
+                default -> System.out.println("Pilihan tidak tersedia.");
             }
         } while (pilihan != 6);
     }
 }
+
