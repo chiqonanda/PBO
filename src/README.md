@@ -19,3 +19,15 @@ untuk dimenu tambah Aplikasi sendiri User/Admin akan diminta mengisi nama aplika
 <img width="678" height="566" alt="image" src="https://github.com/user-attachments/assets/2ec43b16-9540-487e-8769-24b28e618d33" />
 
 Menu ini dapat menampilkan seluruh daftar aplikasi yang tersimpan di sistem. Namun jika daftar kosong, akan keluar pesan "Belum ada aplikasi."
+
+4. Menu Update Aplikasi
+<img width="667" height="648" alt="image" src="https://github.com/user-attachments/assets/80860373-1eff-40bf-97f9-1b768e15a51c" />
+
+Menampilkan daftar aplikasi yang ingin diupdate tetapi jika tidak ada maka akan ada tulisan tidak ada. User/admin memilih aplikasi berdasarkan nomor yang ingin diupdate. User bisa mengganti semua aspek (nama, developer, versi, rating, download, kategori, deskripsi, ukuran file). Jika nomor tidak valid, keluar pesan error. 
+
+5. Menu Delete Aplikasi
+<img width="540" height="434" alt="image" src="https://github.com/user-attachments/assets/04a6d03e-ce50-4206-b1c2-23e9ff571926" />
+
+Menampilkan daftar aplikasi. User memilih nomor aplikasi untuk dihapus, Jika berhasil, program menampilkan "Aplikasi berhasil dihapus." hati hati jika ingin menghapus software ataupun aplikasi dikarenakan akan terhapus secara permanenn nantinya
+
+
