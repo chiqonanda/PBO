@@ -9,11 +9,11 @@ Program ini merupakan sistem manajemen aplikasi sederhana (mirip App Store) deng
 ### 1. Struktur Project (MVC)
 <img width="388" height="224" alt="image" src="https://github.com/user-attachments/assets/82d00d5f-22f5-4aa0-ae6c-ad810e10f7ec" />
 
-- Package Main → berisi Main.java sebagai entry point program dan menu interaksi user.
+- Package Main berisi Main.java sebagai entry point program dan menu interaksi user.
 
-- Package Model → berisi class Aplikasi yang menyimpan struktur data, atribut, constructor, getter & setter.
+- Package Model berisi class Aplikasi yang menyimpan struktur data, atribut, constructor, getter & setter.
 
-- Package Service → berisi class AplikasiService yang mengatur logika CRUD dan validasi input.
+- Package Service berisi class AplikasiService yang mengatur logika CRUD dan validasi input.
 
 ## Alur Program 
 ### 1. Menu Utama
