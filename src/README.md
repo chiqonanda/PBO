@@ -16,10 +16,6 @@ Terdapat 3 Package dipemrograman ini dimana setiap packagenya mempunyai fungsi m
 
 - Package Service berisi class AplikasiService yang mengatur logika CRUD dan validasi input.
 
-## Source Code 
-### 1. 
-
-
 
 ## Alur Program 
 ### 1. Menu Utama
