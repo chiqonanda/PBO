@@ -2,9 +2,20 @@
 # NIM : 2409116046
 # Tema : Manajemen Aplikasi/Tools (AppStore)
 
-- Deskripsi Singkat Program
+## Deskripsi Singkat Program
 Program ini merupakan sistem manajemen aplikasi sederhana (mirip App Store) dengan operasi CRUD (Create, Read, Update, Delete) serta fitur pencarian. Pengguna dapat menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi, menghapus aplikasi, dan mencari aplikasi berdasarkan nama. Program dibuat dengan konsep Pemrograman Berorientasi Objek (OOP), menerapkan MVC (Model-View-Controller), serta dilengkapi validasi input.
-Alur Program 
+
+## Source Code
+### 1. Struktur Project (MVC)
+<img width="388" height="224" alt="image" src="https://github.com/user-attachments/assets/82d00d5f-22f5-4aa0-ae6c-ad810e10f7ec" />
+
+- Package Main → berisi Main.java sebagai entry point program dan menu interaksi user.
+
+- Package Model → berisi class Aplikasi yang menyimpan struktur data, atribut, constructor, getter & setter.
+
+- Package Service → berisi class AplikasiService yang mengatur logika CRUD dan validasi input.
+
+## Alur Program 
 ### 1. Menu Utama
 <img width="456" height="306" alt="image" src="https://github.com/user-attachments/assets/b0f452d6-2c57-4ad2-9e69-dbdab195c8c8" />
 
@@ -36,6 +47,11 @@ Menampilkan daftar aplikasi. User memilih nomor aplikasi untuk dihapus, Jika ber
 Pada Menu ini User bisa memasukkan keyword nama aplikasi. Program akan mencari keyword yang telah diinput oleh user dan akan mencari semua aplikasi yang berbau keyword tersebut. Jika tidak ditemukan, muncul pesan "Aplikasi tidak ditemukan."
 
 ### 7. Menu Keluar
+<img width="514" height="361" alt="image" src="https://github.com/user-attachments/assets/c75a890e-d395-448e-9fdb-c4e874f63c49" />
+
+Saat user memasukan nilai 6 maka program akan otomatis berhenti dan akan menampilkan "terima kasih program selesai!"
+
+
 
 
 
