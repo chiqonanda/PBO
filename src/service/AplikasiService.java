@@ -8,7 +8,7 @@ public class AplikasiService {
     private ArrayList<Aplikasi> daftarApp = new ArrayList<>();
     private Scanner input = new Scanner(System.in);
 
-    // 🔹 Method bantu validasi input String (tidak boleh kosong)
+    // Validasi Input jika kosong
     private String inputString(String pesan) {
         String data;
         do {
@@ -21,7 +21,7 @@ public class AplikasiService {
         return data;
     }
 
-    // 🔹 Method bantu validasi input double
+    // Validasi input jika ada yang input selain angka
     private double inputDouble(String pesan, double min, double max) {
         double val = 0;
         boolean valid = false;
@@ -41,7 +41,7 @@ public class AplikasiService {
         return val;
     }
 
-    // 🔹 Method bantu validasi input long (positif)
+    // 🔹 Validasi input harus bilangan positif dan tidak ada koma
     private long inputLong(String pesan) {
         long val = -1;
         boolean valid = false;
@@ -140,3 +140,4 @@ public class AplikasiService {
         }
     }
 }
+
