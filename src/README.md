@@ -16,6 +16,19 @@ Terdapat 3 Package dipemrograman ini dimana setiap packagenya mempunyai fungsi m
 
 - Package Service berisi class AplikasiService yang mengatur logika CRUD dan validasi input. (Controller)
 
+## Validasi Input
+Validasi input adalah proses memeriksa apakah data yang dimasukkan oleh user sesuai dengan aturan yang sudah ditentukan.
+
+<img width="788" height="296" alt="image" src="https://github.com/user-attachments/assets/8f6693af-0bbb-48bf-a03b-1e2dd354682c" />
+
+berikut adalah code penggunaan validasi input yaitu dengan try dan catch, namun validasi error ataupun input tidak hanya menggunakan try catch bisa juga dengan logika pemrograman
+
+
+<img width="469" height="253" alt="image" src="https://github.com/user-attachments/assets/db616f9b-ece5-48d8-a4a0-1bdc3165600d" />
+
+
+
+
 
 ## Alur Program 
 ### 1. Menu Utama
