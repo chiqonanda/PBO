@@ -25,6 +25,11 @@ Program ini menggunakan pewarisan dengan menjadikan Aplikasi sebagai superclass 
 
 <img width="695" height="63" alt="image" src="https://github.com/user-attachments/assets/6cb907f3-45a1-4ce9-90ba-ea0c4a71f566" />
 
+<img width="779" height="66" alt="image" src="https://github.com/user-attachments/assets/ffe7b07c-351f-4bec-b8ed-64e13d1e5763" />
+
+<img width="616" height="65" alt="image" src="https://github.com/user-attachments/assets/a1d52fac-812d-40e1-9e35-ebbd12d9d901" />
+
+<img width="559" height="63" alt="image" src="https://github.com/user-attachments/assets/59dcd820-ff11-4cd2-b8cf-8885b6e4f608" />
 
 
 
