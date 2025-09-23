@@ -35,6 +35,7 @@ Program ini menggunakan pewarisan dengan menjadikan Aplikasi sebagai superclass 
 
 ### Overriding
 
+<img width="696" height="86" alt="image" src="https://github.com/user-attachments/assets/3af49910-5686-4059-bc4b-81326aabfd94" />
 
 
 ### Alur Terbaru
