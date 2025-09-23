@@ -18,6 +18,9 @@ Program ini menggunakan pewarisan dengan menjadikan Aplikasi sebagai superclass 
 ### Encapsulation
 <img width="632" height="224" alt="image" src="https://github.com/user-attachments/assets/6e715b8b-3d4d-4b0e-8b82-e315eae49886" />
 
+
+<img width="995" height="542" alt="image" src="https://github.com/user-attachments/assets/55a84dc9-20ba-4c66-b715-9e01adfbd990" />
+
 ### Inheritance
 
 <img width="966" height="248" alt="image" src="https://github.com/user-attachments/assets/c60ff451-8ddb-4fb7-83aa-c334c0921ec9" />
