@@ -27,26 +27,27 @@ Untuk mengakses atau mengubah nilai atribut, digunakan getter dan setter.
 
 ### Inheritance
 
-Aplikasi adalah class induk (superclass) yang menyimpan atribut umum sebuah aplikasi, seperti nama, developer, versi, rating, jumlahDownload, kategori, deskripsi, dan ukuranFile. Semua aplikasi, baik itu game, sosial media, edukasi, atau utility, pasti punya atribut dasar ini. Dengan adanya superclass ini, atribut yang sama tidak perlu ditulis berulang di setiap class turunan.
+Inheritance diterapkan dengan membuat Aplikasi sebagai superclass yang berisi atribut umum (nama, developer, versi, rating, download, kategori, deskripsi, ukuran file).
 
 <img width="966" height="248" alt="image" src="https://github.com/user-attachments/assets/c60ff451-8ddb-4fb7-83aa-c334c0921ec9" />
 
-SosialMedia mewarisi semua atribut dari Aplikasi, kemudian menambahkan atribut khusus yaitu jumlahPenggunaAktif untuk menyimpan jumlah user yang menggunakan aplikasi tersebut secara aktif. Contoh penerapan subclass ini adalah Instagram, Twitter, atau Facebook.
+Aplikasi adalah class induk (superclass) yang menyimpan atribut umum sebuah aplikasi, seperti nama, developer, versi, rating, jumlahDownload, kategori, deskripsi, dan ukuranFile. Semua aplikasi, baik itu game, sosial media, edukasi, atau utility, pasti punya atribut dasar ini. Dengan adanya superclass ini, atribut yang sama tidak perlu ditulis berulang di setiap class turunan.
 
 <img width="695" height="63" alt="image" src="https://github.com/user-attachments/assets/6cb907f3-45a1-4ce9-90ba-ea0c4a71f566" />
 
-Edukasi juga mewarisi atribut umum dari Aplikasi dan menambahkan atribut tingkatPendidikan untuk membedakan level pendidikan pengguna yang dituju, misalnya aplikasi untuk SD, SMP, SMA, atau perguruan tinggi. Contoh aplikasinya seperti Duolingo atau Ruangguru.
+SosialMedia mewarisi semua atribut dari Aplikasi, kemudian menambahkan atribut khusus yaitu jumlahPenggunaAktif untuk menyimpan jumlah user yang menggunakan aplikasi tersebut secara aktif. Contoh penerapan subclass ini adalah Instagram, Twitter, atau Facebook.
 
 <img width="779" height="66" alt="image" src="https://github.com/user-attachments/assets/ffe7b07c-351f-4bec-b8ed-64e13d1e5763" />
 
-Game adalah subclass dari Aplikasi yang menambahkan atribut genre untuk membedakan jenis permainan, misalnya Action, RPG, Puzzle, atau MOBA. Dengan atribut tambahan ini, aplikasi game dapat dikategorikan lebih detail sesuai gaya permainannya.
+Edukasi juga mewarisi atribut umum dari Aplikasi dan menambahkan atribut tingkatPendidikan untuk membedakan level pendidikan pengguna yang dituju, misalnya aplikasi untuk SD, SMP, SMA, atau perguruan tinggi. Contoh aplikasinya seperti Duolingo atau Ruangguru.
 
 <img width="616" height="65" alt="image" src="https://github.com/user-attachments/assets/a1d52fac-812d-40e1-9e35-ebbd12d9d901" />
 
-AplikasiPembantu mewarisi atribut dari Aplikasi dan menambahkan atribut membutuhkanInternet berupa nilai boolean (true/false) untuk menandakan apakah aplikasi utility tersebut harus terhubung ke internet atau bisa berjalan secara offline. Contoh aplikasinya adalah antivirus, cleaner, atau file manager.
+Game adalah subclass dari Aplikasi yang menambahkan atribut genre untuk membedakan jenis permainan, misalnya Action, RPG, Puzzle, atau MOBA. Dengan atribut tambahan ini, aplikasi game dapat dikategorikan lebih detail sesuai gaya permainannya.
 
 <img width="559" height="63" alt="image" src="https://github.com/user-attachments/assets/59dcd820-ff11-4cd2-b8cf-8885b6e4f608" />
 
+AplikasiPembantu mewarisi atribut dari Aplikasi dan menambahkan atribut membutuhkanInternet berupa nilai boolean (true/false) untuk menandakan apakah aplikasi utility tersebut harus terhubung ke internet atau bisa berjalan secara offline. Contoh aplikasinya adalah antivirus, cleaner, atau file manager.
 
 
 ### Overriding
