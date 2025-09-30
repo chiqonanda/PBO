@@ -6,8 +6,9 @@
 ## Deskripsi Singkat Program
 Program ini merupakan sistem manajemen aplikasi sederhana (mirip App Store) dengan operasi CRUD (Create, Read, Update, Delete) serta fitur pencarian. Pengguna dapat menambahkan aplikasi baru, melihat daftar aplikasi, mengupdate aplikasi, menghapus aplikasi, dan mencari aplikasi berdasarkan nama. Program dibuat dengan konsep Pemrograman Berorientasi Objek (OOP), menerapkan MVC (Model-View-Controller), serta dilengkapi validasi input.
 
-## Struktur Project (MVC)
-<img width="388" height="224" alt="image" src="https://github.com/user-attachments/assets/82d00d5f-22f5-4aa0-ae6c-ad810e10f7ec" />
+## Struktur Project
+<img width="425" height="256" alt="image" src="https://github.com/user-attachments/assets/ef4011b5-80ee-421b-8a4e-88d427198888" />
+
 
 Terdapat 3 Package dipemrograman ini dimana setiap packagenya mempunyai fungsi masing masing, yaitu:
 - Package Main berisi Main.java sebagai entry point program dan menu interaksi user. (View)
@@ -15,17 +16,6 @@ Terdapat 3 Package dipemrograman ini dimana setiap packagenya mempunyai fungsi m
 - Package Model berisi class Aplikasi yang menyimpan struktur data, atribut, constructor, getter & setter. (Model)
 
 - Package Service berisi class AplikasiService yang mengatur logika CRUD dan validasi input. (Controller)
-
-## Validasi Input
-Validasi input adalah proses memeriksa apakah data yang dimasukkan oleh user sesuai dengan aturan yang sudah ditentukan.
-
-<img width="788" height="296" alt="image" src="https://github.com/user-attachments/assets/8f6693af-0bbb-48bf-a03b-1e2dd354682c" />
-
-berikut adalah code penggunaan validasi input yaitu dengan try dan catch, namun validasi error ataupun input tidak hanya menggunakan try catch bisa juga dengan logika pemrograman
-
-
-<img width="469" height="253" alt="image" src="https://github.com/user-attachments/assets/db616f9b-ece5-48d8-a4a0-1bdc3165600d" />
-
 
 
 
